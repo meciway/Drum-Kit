@@ -17,4 +17,5 @@ You can view the site here [Click Me](https://meciway.github.io/Drum-Kit/)
 
 Merve Aydın Sağlam
 
-![image](https://user-images.githubusercontent.com/95505433/159378510-beb52253-fd9c-4739-a46b-378daa8c3104.png)
+![image](https://user-images.githubusercontent.com/95505433/159378774-51ac50ac-94f2-451f-ba4a-1dfb8faaf6e0.png)
+
